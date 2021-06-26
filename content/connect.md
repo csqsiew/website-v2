@@ -3,7 +3,7 @@ author:
 title: Connect
 ---
 
-**Get in touch!**
+### Get in touch!
 
 _hello at csqsiew dot xyz_   
 
