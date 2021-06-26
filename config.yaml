@@ -1,0 +1,42 @@
+baseurl: "/"
+languageCode: "en-us"
+title: "csqsiew.xyz"
+theme: "hugo-xmin"
+googleAnalytics: ""
+disqusShortname: ""
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+footnotereturnlinkcontents: "↩"
+
+permalinks:
+  note: "/note/:year/:month/:day/:slug/"
+  post: "/post/:year/:month/:day/:slug/"
+
+menu:
+  main:
+    - name: Home
+      url: ""
+      weight: 1
+    - name: Publications
+      url: "publications/"
+      weight: 2
+    - name: Presentations
+      url: "presentations/"
+      weight: 3
+    - name: Teaching
+      url: "teaching/"
+      weight: 4
+    - name: Blog
+      url: "posts/"
+      weight: 5
+    - name: Connect
+      url: "connect/"
+      weight: 6
+
+params:
+  description: "A website built with Hugo, blogdown, and the XMin theme."
+  footer: "A website built with [Hugo](https://gohugo.io/), [blogdown](https://bookdown.org/yihui/blogdown/), and the [XMin](https://github.com/yihui/hugo-xmin) theme."
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
