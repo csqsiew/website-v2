@@ -11,6 +11,10 @@ Siew, C. S. Q. (2021). Investigating the effect of distance entropy on semantic 
 
 * [Poster](https://cloud.csqsiew.xyz/nextcloud/index.php/s/9GKz7CXN2RBiLjB)  
 
+Siew, C. S. Q., & Guru, A. (2021). Longitudinal Subject Fluency Networks of Psychology and Biology Students. Poster presented at the 4th Northeast Regional Conference on Complex Systems, Binghamton University, USA. *Online*   
+
+* [Poster](https://cloud.csqsiew.xyz/nextcloud/index.php/s/qPkGtx7owcNZmCj)  
+
 **2020**
 
 Siew, C. S. Q. (2020, December). Networks in Psychology. Invited talk presented at Reimagine Research: Complexity Science Workshop, Office of the Deputy President, Research and Technology (ODPRT), NUS.     
