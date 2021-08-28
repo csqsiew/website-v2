@@ -5,11 +5,16 @@ title: Conferences & Presentations
 
 **2021**  
 
-Siew, C. S. Q., & Vitevitch, M. S. (2021). An investigation of network growth principles in the phonological language network. Talk to be presented at the 15th Congress of the International Association for the Study of Child Language. Philadelphia, PA, USA. *Online*    
+Siew, C. S. Q., & Castro, N. (2021). Phonological Relatedness Judgments Reflect the Existence of (Somewhat) Distant Connections and Community Structure in the Phonological Lexicon. Poster to be presented at the 62nd Annual Meeting of the Psychonomic Society, New Orleans, USA. *Online*   
 
-Siew, C. S. Q. (2021). Investigating the effect of distance entropy on semantic priming. Poster to be presented at the 43rd Annual Meeting of the Cognitive Science Society, Vienna, Austria. *Online*   
+Siew, C. S. Q. (2021, August). Leveraging on network analysis to uncover mental lexicon structure: Applications for language research. Talk presented at the Global Forum of Computational Social Sciences, NUS, Singapore. *Online*    
+
+Siew, C. S. Q., & Vitevitch, M. S. (2021). An investigation of network growth principles in the phonological language network. Talk presented at the 15th Congress of the International Association for the Study of Child Language. Philadelphia, PA, USA. *Online*    
+
+Siew, C. S. Q. (2021). Investigating the effect of distance entropy on semantic priming. Poster presented at the 43rd Annual Meeting of the Cognitive Science Society, Vienna, Austria. *Online*   
 
 * [Poster](https://cloud.csqsiew.xyz/nextcloud/index.php/s/9GKz7CXN2RBiLjB)  
+* [Slides](https://cloud.csqsiew.xyz/nextcloud/index.php/s/ebBY2HLzsCPARKR)    
 
 Siew, C. S. Q., & Guru, A. (2021). Longitudinal Subject Fluency Networks of Psychology and Biology Students. Poster presented at the 4th Northeast Regional Conference on Complex Systems, Binghamton University, USA. *Online*   
 

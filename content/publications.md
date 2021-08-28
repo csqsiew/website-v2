@@ -7,13 +7,16 @@ _Feel free to [email](/connect) me for copies of any of the articles below._
 
 **Preprints**
 
+Siew, C. S. Q., Engelthaler, T., & Hills, T. Nymph Piss and Gravy Orgies: Local and Global Contrast Effects in Relational Humor.     
+[OSF Preprint](https://doi.org/10.31234/osf.io/3r7fw)    
+
 Li, Y., & Siew, C. S. Q. Diachronic semantic change in language influences, and is constrained by, how people use and learn language.        
 [OSF Preprint](https://osf.io/gw8vj/)      
 
 **Peer-Reviewed Articles**      
 
-Siew, C. S. Q. (in press). Global and local feature distinctiveness effects in language acquisition. *Cognitive Science*.   
-[OSF Preprint](https://osf.io/85gwc/)    
+Siew, C. S. Q. (2021). Global and local feature distinctiveness effects in language acquisition. *Cognitive Science, 45*(7), e13008.     
+[OSF Preprint](https://osf.io/85gwc/) | [Article](https://onlinelibrary.wiley.com/doi/10.1111/cogs.13008)        
 
 Siew, C. S. Q., Yi. K., & Lee, C. H. (2021). Syllable and letter similarity effects in Korean: Insights from the Korean Lexicon Project. *Journal of Memory and Language, 116*, 104170. DOI: 10.1016/j.jml.2020.104170.     
 [Article](https://www.sciencedirect.com/science/article/abs/pii/S0749596X2030084X?dgcid=rss_sd_all)     
