@@ -5,7 +5,9 @@ title: Conferences & Presentations
 
 **2021**  
 
-Siew, C. S. Q., & Castro, N. (2021). Phonological Relatedness Judgments Reflect the Existence of (Somewhat) Distant Connections and Community Structure in the Phonological Lexicon. Poster to be presented at the 62nd Annual Meeting of the Psychonomic Society, New Orleans, USA. *Online*   
+Siew, C. S. Q., & Castro, N. (2021, November). Phonological Relatedness Judgments Reflect the Existence of (Somewhat) Distant Connections and Community Structure in the Phonological Lexicon. Poster to be presented at the 62nd Annual Meeting of the Psychonomic Society, New Orleans, USA. *Online*   
+
+Siew, C. S. Q., & Castro, N. (2021, October). Long distance connections in the phonological network. Talk to be presented at CompCog: A satellite symposium of the Conference on Complex Systems 2021. *Online*.    
 
 Siew, C. S. Q. (2021, August). Leveraging on network analysis to uncover mental lexicon structure: Applications for language research. Talk presented at the Global Forum of Computational Social Sciences, NUS, Singapore. *Online*    
 

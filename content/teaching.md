@@ -5,11 +5,13 @@ title: Teaching
 
 ### National University of Singapore (2019-present)     
 
-* PL3237 Language and Cognitive Processes 
+**PL3237 Language and Cognitive Processes**    
 
-* PL3281E Lab in Speech and Language Processes 
+**PL3281E Lab in Speech and Language Processes**     
 
-* PL4246 Networks in Psychology  
+**PL4246 Networks in Psychology**   
+
+* [Course Website](https://networks-in-psychology.netlify.app) (under construction)  
 
 ---
 

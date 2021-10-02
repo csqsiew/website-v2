@@ -5,7 +5,7 @@ title: Connect
 
 ### Get in touch!
 
-_hello at csqsiew dot xyz_   
+_hello at cloud dot csqsiew dot xyz_   
 
 View my CV [here.](https://cloud.csqsiew.xyz/nextcloud/index.php/s/rx3xaMidbFJeZGP)  
 
