@@ -5,7 +5,7 @@ title: Conferences & Presentations
 
 **2021**  
 
-Siew, C. S. Q., & Castro, N. (2021, November). Phonological Relatedness Judgments Reflect the Existence of (Somewhat) Distant Connections and Community Structure in the Phonological Lexicon. Poster to be presented at the 62nd Annual Meeting of the Psychonomic Society, New Orleans, USA. *Online*   
+Siew, C. S. Q., & Castro, N. (2021, November). Phonological Relatedness Judgments Reflect the Existence of (Somewhat) Distant Connections and Community Structure in the Phonological Lexicon. Poster presented at the 62nd Annual Meeting of the Psychonomic Society, New Orleans, USA. *Online*   
 
 * [Poster](https://cloud.csqsiew.xyz/nextcloud/index.php/s/innZQBWNagTbJtq)
 
