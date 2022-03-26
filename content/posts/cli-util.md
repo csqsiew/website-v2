@@ -51,6 +51,7 @@ Org-mode in *Emacs* is a beast. I use it to organize my GTD system, take notes o
 *Vim* is the new kid on the block - but I am really liking it. I am writing this blog post in *Vim*, and have started using the *Vim* shortcuts in RStudio. The modal approach to text editing is fascinating and I am looking forward to learning more about it. 
 
 *Emacs*: https://www.gnu.org/software/emacs/
+
 *Vim*: https://www.vim.org/
 
 ### Summary 
