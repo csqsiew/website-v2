@@ -12,7 +12,7 @@ title: Home
 
 #### _(but once a Jayhawk, always a Jayhawk.)_
 
-I'm currently an Assistant Professor in the [Department of Psychology](https://fass.nus.edu.sg/psy/) at the [National University of Singapore](https://www.nus.edu.sg/). After graduating from the Cognitive and Brain Sciences PhD Program at the University of Kansas, USA, in 2017, I went across the pond and was a post doctoral fellow at the University of Warwick, UK, from 2017 to 2019.      
+I'm currently an Assistant Professor in the [Department of Psychology](https://fass.nus.edu.sg/psy/) at the [National University of Singapore](https://www.nus.edu.sg/), and Principal Invesigator of the [Language and Computation Lab](https://langcomplab.github.io). After graduating from the Cognitive and Brain Sciences PhD Program at the University of Kansas, USA, in 2017, I went across the pond and was a post doctoral fellow at the University of Warwick, UK, from 2017 to 2019.      
 
 I’m a psycholinguist and cognitive scientist who uses network analysis to study cognitive structures, such as the mental lexicon and semantic memory. My research uses a combination of experimental methods from cognitive psychology and psycholinguistics, computational modeling and mathematical methods from network science, and large-scale analysis of databases and linguistic corpora to address the following questions:
 
