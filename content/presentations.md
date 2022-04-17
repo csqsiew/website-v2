@@ -3,6 +3,12 @@ author:
 title: Conferences & Presentations
 ---
 
+**2022**
+
+Siew, C. S. Q. (2022, April). The Mental Lexicon As A Cognitive Network: Implications for language processing and acquisition. Talk to be presented at James Cook University (Singapore) Brownbag Series, Singapore. *Online*
+
+* [Zoom Link](https://www.jcu.edu.sg/research/research-events-calendar)
+
 **2021**  
 
 Siew, C. S. Q., & Castro, N. (2021, November). Phonological Relatedness Judgments Reflect the Existence of (Somewhat) Distant Connections and Community Structure in the Phonological Lexicon. Poster presented at the 62nd Annual Meeting of the Psychonomic Society, New Orleans, USA. *Online*   
