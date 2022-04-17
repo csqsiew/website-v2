@@ -17,7 +17,7 @@ Siew, C. S. Q., & Guru, A. (in press). Investigating the network structure of do
 
 Kumar, A. M., Goh, J. Y. Q., Tan, T. H. H., & Siew, C. S. Q. (in press). Gender Stereotypes in Hollywood Movies and Their Evolution Over Time: Insights from Network Analysis. *Big Data and Cognitive Computing*.     
 
-Siew, C. S. Q., Engelthaler, T., & Hills, T. T. (2022). Nymph Piss and Gravy Orgies: Local and Global Contrast Effects in Relational Humor. *Journal of Experimental Psychology: Learning, Memory, and Cognition.* Advance online publication. https://doi.org/10.1037/xlm0001120      
+Siew, C. S. Q., Engelthaler, T., & Hills, T. T. (2022). Nymph Piss and Gravy Orgies: Local and Global Contrast Effects in Relational Humor. *Journal of Experimental Psychology: Learning, Memory, and Cognition.* Advance online publication. DOI: 10.1037/xlm0001120      
 [Article](https://psycnet.apa.org/record/2022-51465-001) | [Preprint](https://doi.org/10.31234/osf.io/3r7fw) | [OSF](https://osf.io/wy98d/) | [Shiny Application](https://csqsiew.shinyapps.io/humorous_phrases/)     
 
 Siew, C. S. Q. (2022). Investigating Cognitive Network Models of Learners’ Knowledge Representations. *Journal of Learning Analytics, 9*(1), 120-129.       

@@ -5,9 +5,7 @@ title: Conferences & Presentations
 
 **2022**
 
-Siew, C. S. Q. (2022, April). The Mental Lexicon As A Cognitive Network: Implications for language processing and acquisition. Talk to be presented at James Cook University (Singapore) Brownbag Series, Singapore. *Online*
-
-* [Zoom Link](https://www.jcu.edu.sg/research/research-events-calendar)
+Siew, C. S. Q. (2022, April). The Mental Lexicon As A Cognitive Network: Implications for language processing and acquisition. Talk to be presented at the James Cook University (Singapore) Brownbag Series, Singapore. *Online*
 
 **2021**  
 
