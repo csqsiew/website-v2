@@ -15,10 +15,11 @@ Li, Y., & Siew, C. S. Q. Diachronic semantic change in language influences, and 
 Siew, C. S. Q., & Guru, A. (in press). Investigating the network structure of domain-specific knowledge using the semantic fluency task. *Memory and Cognition*.     
 [Preprint](https://psyarxiv.com/g3aeq) | [OSF](https://osf.io/yjzma)     
 
-Kumar, A. M., Goh, J. Y. Q., Tan, T. H. H., & Siew, C. S. Q. (in press). Gender Stereotypes in Hollywood Movies and Their Evolution Over Time: Insights from Network Analysis. *Big Data and Cognitive Computing*.     
+Kumar, A. M., Goh, J. Y. Q., Tan, T. H. H., & Siew, C. S. Q. (2022). Gender Stereotypes in Hollywood Movies and Their Evolution Over Time: Insights from Network Analysis. *Big Data and Cognitive Computing, 6*(2), 50. DOI: 10.3390/bdcc6020050     
+[Open-Access Article](https://www.mdpi.com/2504-2289/6/2/50) | [Github](https://github.com/arjunkmrm/film-networks)     
 
 Siew, C. S. Q., Engelthaler, T., & Hills, T. T. (2022). Nymph Piss and Gravy Orgies: Local and Global Contrast Effects in Relational Humor. *Journal of Experimental Psychology: Learning, Memory, and Cognition.* Advance online publication. DOI: 10.1037/xlm0001120      
-[Article](https://psycnet.apa.org/record/2022-51465-001) | [Preprint](https://doi.org/10.31234/osf.io/3r7fw) | [OSF](https://osf.io/wy98d/) | [Shiny Application](https://csqsiew.shinyapps.io/humorous_phrases/)     
+[Article](https://psycnet.apa.org/record/2022-51465-001) | [Preprint](https://doi.org/10.31234/osf.io/3r7fw) | [OSF](https://osf.io/wy98d/) | [Shiny Application](https://csqsiew.shinyapps.io/humorous_phrases/) | [In the news](https://www.newscientist.com/article/2319945-why-some-words-become-funnier-when-paired-together/)      
 
 Siew, C. S. Q. (2022). Investigating Cognitive Network Models of Learners’ Knowledge Representations. *Journal of Learning Analytics, 9*(1), 120-129.       
 [Open-Access Article](https://learning-analytics.info/index.php/JLA/article/view/7671)      
