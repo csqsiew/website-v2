@@ -5,13 +5,11 @@ title: Publications
 
 _Feel free to [email](/connect) me for copies of any of the articles below._    
 
-**Preprints**
-
-Li, Y., & Siew, C. S. Q. Diachronic semantic change in language influences, and is constrained by, how people use and learn language.        
-[Preprint](https://osf.io/gw8vj/)      
-
 **Peer-Reviewed Articles**      
 
+Li, Y., & Siew, C. S. Q. (in press). Diachronic semantic change in language influences, and is constrained by, how people use and learn language. *Memory and Cognition*.      
+[Preprint & OSF](https://osf.io/gw8vj/)      
+  
 Siew, C. S. Q., & Guru, A. (in press). Investigating the network structure of domain-specific knowledge using the semantic fluency task. *Memory and Cognition*.     
 [Preprint](https://psyarxiv.com/g3aeq) | [OSF](https://osf.io/yjzma)     
 
