@@ -10,8 +10,8 @@ _Feel free to [email](/connect) me for copies of any of the articles below._
 Li, Y., & Siew, C. S. Q. (in press). Diachronic semantic change in language influences, and is constrained by, how people use and learn language. *Memory and Cognition*.      
 [Preprint & OSF](https://osf.io/gw8vj/)      
   
-Siew, C. S. Q., & Guru, A. (in press). Investigating the network structure of domain-specific knowledge using the semantic fluency task. *Memory and Cognition*.     
-[Preprint](https://psyarxiv.com/g3aeq) | [OSF](https://osf.io/yjzma)     
+Siew, C. S. Q., & Guru, A. (2022). Investigating the network structure of domain-specific knowledge using the semantic fluency task. *Memory and Cognition*. *Online First*       
+[Article](https://link.springer.com/article/10.3758/s13421-022-01314-1) | [Preprint](https://psyarxiv.com/g3aeq) | [OSF](https://osf.io/yjzma)     
 
 Kumar, A. M., Goh, J. Y. Q., Tan, T. H. H., & Siew, C. S. Q. (2022). Gender Stereotypes in Hollywood Movies and Their Evolution Over Time: Insights from Network Analysis. *Big Data and Cognitive Computing, 6*(2), 50. DOI: 10.3390/bdcc6020050     
 [Open-Access Article](https://www.mdpi.com/2504-2289/6/2/50) | [Github](https://github.com/arjunkmrm/film-networks)     
