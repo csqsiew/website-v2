@@ -11,10 +11,10 @@ Lee, N. H., Siew, C. S. Q., & Ng, N. H. N. (in press). The network nature of lan
 [Github](https://github.com/csqsiew/language-endangerment)     
 
 Li, Y., & Siew, C. S. Q. (in press). Diachronic semantic change in language influences, and is constrained by, how people use and learn language. *Memory and Cognition*.      
-[Preprint & OSF](https://osf.io/gw8vj/) | [All Things Cognition Podcast](https://featuredcontent.psychonomic.org/semantic-fluency-of-novices-and-experts-increase-understanding-of-knowledge-networks/)       
+[Preprint & OSF](https://osf.io/gw8vj/)      
   
 Siew, C. S. Q., & Guru, A. (2022). Investigating the network structure of domain-specific knowledge using the semantic fluency task. *Memory and Cognition*. *Online First*       
-[Article](https://link.springer.com/article/10.3758/s13421-022-01314-1) | [Preprint](https://psyarxiv.com/g3aeq) | [OSF](https://osf.io/yjzma)     
+[Article](https://link.springer.com/article/10.3758/s13421-022-01314-1) | [Preprint](https://psyarxiv.com/g3aeq) | [OSF](https://osf.io/yjzma) | [All Things Cognition Podcast](https://featuredcontent.psychonomic.org/semantic-fluency-of-novices-and-experts-increase-understanding-of-knowledge-networks/)           
 
 Kumar, A. M., Goh, J. Y. Q., Tan, T. H. H., & Siew, C. S. Q. (2022). Gender Stereotypes in Hollywood Movies and Their Evolution Over Time: Insights from Network Analysis. *Big Data and Cognitive Computing, 6*(2), 50. DOI: 10.3390/bdcc6020050     
 [Open-Access Article](https://www.mdpi.com/2504-2289/6/2/50) | [Github](https://github.com/arjunkmrm/film-networks)     
