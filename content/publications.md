@@ -7,8 +7,11 @@ _Feel free to [email](/connect) me for copies of any of the articles below._
 
 **Peer-Reviewed Articles**      
 
+Lee, N. H., Siew, C. S. Q., & Ng, N. H. N. (in press). The network nature of language endangerment hotspots. *Scientific Reports*.    
+[Github](https://github.com/csqsiew/language-endangerment)     
+
 Li, Y., & Siew, C. S. Q. (in press). Diachronic semantic change in language influences, and is constrained by, how people use and learn language. *Memory and Cognition*.      
-[Preprint & OSF](https://osf.io/gw8vj/)      
+[Preprint & OSF](https://osf.io/gw8vj/) | [All Things Cognition Podcast](https://featuredcontent.psychonomic.org/semantic-fluency-of-novices-and-experts-increase-understanding-of-knowledge-networks/)       
   
 Siew, C. S. Q., & Guru, A. (2022). Investigating the network structure of domain-specific knowledge using the semantic fluency task. *Memory and Cognition*. *Online First*       
 [Article](https://link.springer.com/article/10.3758/s13421-022-01314-1) | [Preprint](https://psyarxiv.com/g3aeq) | [OSF](https://osf.io/yjzma)     
@@ -18,9 +21,6 @@ Kumar, A. M., Goh, J. Y. Q., Tan, T. H. H., & Siew, C. S. Q. (2022). Gender Ster
 
 Siew, C. S. Q., Engelthaler, T., & Hills, T. T. (2022). Nymph Piss and Gravy Orgies: Local and Global Contrast Effects in Relational Humor. *Journal of Experimental Psychology: Learning, Memory, and Cognition.* Advance online publication. DOI: 10.1037/xlm0001120      
 [Article](https://psycnet.apa.org/record/2022-51465-001) | [Preprint](https://doi.org/10.31234/osf.io/3r7fw) | [OSF](https://osf.io/wy98d/) | [Shiny Application](https://csqsiew.shinyapps.io/humorous_phrases/) | [In the news](https://www.newscientist.com/article/2319945-why-some-words-become-funnier-when-paired-together/)      
-
-Siew, C. S. Q. (2022). Investigating Cognitive Network Models of Learners’ Knowledge Representations. *Journal of Learning Analytics, 9*(1), 120-129.       
-[Open-Access Article](https://learning-analytics.info/index.php/JLA/article/view/7671)      
 
 Siew, C. S. Q. (2021). Global and local feature distinctiveness effects in language acquisition. *Cognitive Science, 45*(7), e13008.     
 [Preprint](https://osf.io/85gwc/) | [Article](https://onlinelibrary.wiley.com/doi/10.1111/cogs.13008)        
@@ -104,6 +104,9 @@ Siew, C. S. Q. (2013). Community structure in the phonological network. *Frontie
 [Open-Access Article](http://journal.frontiersin.org/Journal/10.3389/fpsyg.2013.00553/abstract) | [OSF](https://osf.io/cn5tv/)          
 
 **Other Publications** 
+
+Siew, C. S. Q. (2022). Investigating Cognitive Network Models of Learners’ Knowledge Representations. *Journal of Learning Analytics, 9*(1), 120-129.       
+[Open-Access Article](https://learning-analytics.info/index.php/JLA/article/view/7671)      
 
 Hills, T. T., & Siew, C. S. Q. (2018). Filling Gaps in Early Word Learning. *Nature Human Behavior, 2*, 662-663. DOI: 10.1038/s41562-018-0428-y         
 [Article](https://www.nature.com/articles/s41562-018-0428-y)  
