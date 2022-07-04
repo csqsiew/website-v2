@@ -5,6 +5,8 @@ title: Conferences & Presentations
 
 **2022**
 
+Siew, C. S. Q. (2022, June). The Mental Lexicon As A Cognitive Network: Implications for language processing. Talk presented at Macquarie University, Sydney, Australia.      
+
 Siew, C. S. Q. (2022, May). Quantifying the Structure of the Mental Lexicon Using Network Science. Talk presented at the HUST-NUS Academic Lecture Series. *Online*     
 
 * [Slides](https://www.dropbox.com/s/eif80jwy7790p67/Siew_HUST_Talk_Slides.pdf?dl=0)      

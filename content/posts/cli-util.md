@@ -30,6 +30,8 @@ An important must-have feature of a calendar is the ability to sync to other dev
 
 *calcurse*: https://calcurse.org/
 
+> 2022/07/04 update: I am running in weird bugs with calcurse that I am not able to solve. Sadly, it means I have to reture this terminal app. My calendar replacement for now is the calendar within the [Vivaldi](https://vivaldi.com/features/calendar/). It is more keyboard based than most other calendar GUIs, and Vivaldi itself is not a bad browser.      
+ 
 ### 3. Search - *ag, fzf*
 
 Super fast search is an essential tool in any knowledge worker's arsenal. Information is only really useful if you are able to retrieve it quickly amongst all the other stuffz you gotz. *fzf* helps me look for any file via searching for terms in the title and/or the file extension. Its github has a bunch of useful bash functions that uses *fzf* to do a lot of useful things, and you can just copy the ones that you need into your `.bashrc` file. In particular I found `fd()` and `fh()` really handy for quickly changing directories and searching through my command history. Simple but super effective. I have *fzf* set up so that I get a preview of the file in the terminal, and can easily open the file in *vim* or some other program depending on the file type.  

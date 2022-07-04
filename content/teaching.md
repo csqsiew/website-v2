@@ -12,6 +12,7 @@ title: Teaching
 **PL4246 Networks in Psychology**   
 
 * [Course Website](https://networks-in-psychology.netlify.app) (under construction)  
+* Slides and Code for "An Introduction to Network Analysis for Psycholinguists": A [Virtual Psycholinguistics Forum](https://cuhklpl.github.io/forum.html) Tutorial (coming soon!)
 
 ---
 

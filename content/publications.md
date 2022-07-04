@@ -7,11 +7,11 @@ _Feel free to [email](/connect) me for copies of any of the articles below._
 
 **Peer-Reviewed Articles**      
 
-Lee, N. H., Siew, C. S. Q., & Ng, N. H. N. (in press). The network nature of language endangerment hotspots. *Scientific Reports*.    
-[Github](https://github.com/csqsiew/language-endangerment)     
+Lee, N. H., Siew, C. S. Q., & Ng, N. H. N. (2022). The network nature of language endangerment hotspots. *Scientific Reports, 12*, 10803.     
+[Open-Access Article](https://www.nature.com/articles/s41598-022-14479-1) | [Github](https://github.com/csqsiew/language-endangerment)     
 
-Li, Y., & Siew, C. S. Q. (in press). Diachronic semantic change in language influences, and is constrained by, how people use and learn language. *Memory and Cognition*.      
-[Preprint & OSF](https://osf.io/gw8vj/)      
+Li, Y., & Siew, C. S. Q. (2022). Diachronic semantic change in language influences, and is constrained by, how people use and learn language. *Memory and Cognition*. *Online First*      
+[Open-Access Article](https://link.springer.com/article/10.3758/s13421-022-01331-0) | [Preprint & OSF](https://osf.io/gw8vj/)      
   
 Siew, C. S. Q., & Guru, A. (2022). Investigating the network structure of domain-specific knowledge using the semantic fluency task. *Memory and Cognition*. *Online First*       
 [Article](https://link.springer.com/article/10.3758/s13421-022-01314-1) | [Preprint](https://psyarxiv.com/g3aeq) | [OSF](https://osf.io/yjzma) | [All Things Cognition Podcast](https://featuredcontent.psychonomic.org/semantic-fluency-of-novices-and-experts-increase-understanding-of-knowledge-networks/)           
