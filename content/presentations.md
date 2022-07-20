@@ -5,6 +5,8 @@ title: Conferences & Presentations
 
 **2022**
 
+Siew, C. S. Q., & Tan, J. F. (2022, September). Production and perception errors from a speech error corpus reflect the macro- and meso-level structure of the phonological language network. Poster to be presented at Architectures and Mechanisms for Language Processing (AMLaP) 28. York, United Kingdom. *Online*.     
+
 Siew, C. S. Q. (2022, June). The Mental Lexicon As A Cognitive Network: Implications for language processing. Talk presented at Macquarie University, Sydney, Australia.      
 
 Siew, C. S. Q. (2022, May). Quantifying the Structure of the Mental Lexicon Using Network Science. Talk presented at the HUST-NUS Academic Lecture Series. *Online*     
