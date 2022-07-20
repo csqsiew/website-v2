@@ -5,6 +5,11 @@ title: Publications
 
 _Feel free to [email](/connect) me for copies of any of the articles below._    
 
+**Preprints**
+
+Klishin, A. A., Christianson, N. H., Siew, C. S. Q., & Bassett, D. S. (2022). Learning Dynamic Graphs, Too Slow. arXiv preprint arXiv:2207.02177.    
+[Prepring](https://arxiv.org/abs/2207.02177)    
+
 **Peer-Reviewed Articles**      
 
 Lee, N. H., Siew, C. S. Q., & Ng, N. H. N. (2022). The network nature of language endangerment hotspots. *Scientific Reports, 12*, 10803.     
