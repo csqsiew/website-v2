@@ -5,6 +5,8 @@ title: Conferences & Presentations
 
 **2022**
 
+Siew, C. S. Q., Castro, N., & Chern, J. (2022, November). Higher L2 Proficiency is Associated with Greater Sensitivity to Distant Connections and Community Structure in the Phonological Lexicon. Talk to be presented at the 63rd Annual Meeting of the Psychonomic Society, Boston, USA.     
+
 Siew, C. S. Q., & Tan, J. F. (2022, September). Production and perception errors from a speech error corpus reflect the macro- and meso-level structure of the phonological language network. Poster to be presented at Architectures and Mechanisms for Language Processing (AMLaP) 28. York, United Kingdom. *Online*.     
 
 Siew, C. S. Q. (2022, June). The Mental Lexicon As A Cognitive Network: Implications for language processing. Talk presented at Macquarie University, Sydney, Australia.      
