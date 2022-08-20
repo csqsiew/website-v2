@@ -12,6 +12,8 @@ Klishin, A. A., Christianson, N. H., Siew, C. S. Q., & Bassett, D. S. (2022). Le
 
 **Peer-Reviewed Articles**      
 
+Forbush, K. T., Swanson, T. J., Chen, Y., Siew, C. S. Q., Hagan, K. E., Chapa, D. A. N., Tregarthen, J., Wildes, J. E., & Christensen, K. A. (in press). Generalized network psychometrics of eating‐disorder psychopathology. International Journal of Eating Disorders.     
+
 Lee, N. H., Siew, C. S. Q., & Ng, N. H. N. (2022). The network nature of language endangerment hotspots. *Scientific Reports, 12*, 10803.     
 [Open-Access Article](https://www.nature.com/articles/s41598-022-14479-1) | [Github](https://github.com/csqsiew/language-endangerment)     
 
@@ -25,7 +27,7 @@ Kumar, A. M., Goh, J. Y. Q., Tan, T. H. H., & Siew, C. S. Q. (2022). Gender Ster
 [Open-Access Article](https://www.mdpi.com/2504-2289/6/2/50) | [Github](https://github.com/arjunkmrm/film-networks)     
 
 Siew, C. S. Q., Engelthaler, T., & Hills, T. T. (2022). Nymph Piss and Gravy Orgies: Local and Global Contrast Effects in Relational Humor. *Journal of Experimental Psychology: Learning, Memory, and Cognition.* Advance online publication. DOI: 10.1037/xlm0001120      
-[Article](https://psycnet.apa.org/record/2022-51465-001) | [Preprint](https://doi.org/10.31234/osf.io/3r7fw) | [OSF](https://osf.io/wy98d/) | [Shiny Application](https://csqsiew.shinyapps.io/humorous_phrases/) | [In the news](https://www.newscientist.com/article/2319945-why-some-words-become-funnier-when-paired-together/)      
+[Article](https://psycnet.apa.org/record/2022-51465-001) | [Preprint](https://doi.org/10.31234/osf.io/3r7fw) | [OSF](https://osf.io/wy98d/) | [Shiny Application](https://csqsiew.shinyapps.io/humorous_phrases/) | [In the news](https://www.newscientist.com/article/2319945-why-some-words-become-funnier-when-paired-together/) | *APA Editors' Choice Article*      
 
 Siew, C. S. Q. (2021). Global and local feature distinctiveness effects in language acquisition. *Cognitive Science, 45*(7), e13008.     
 [Preprint](https://osf.io/85gwc/) | [Article](https://onlinelibrary.wiley.com/doi/10.1111/cogs.13008)        
