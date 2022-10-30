@@ -8,11 +8,11 @@ _Feel free to [email](/connect) me for copies of any of the articles below._
 **Preprints**
 
 Klishin, A. A., Christianson, N. H., Siew, C. S. Q., & Bassett, D. S. (2022). Learning Dynamic Graphs, Too Slow. arXiv preprint arXiv:2207.02177.    
-[Prepring](https://arxiv.org/abs/2207.02177)    
+[Preprint](https://arxiv.org/abs/2207.02177)    
 
 **Peer-Reviewed Articles**      
 
-Forbush, K. T., Swanson, T. J., Chen, Y., Siew, C. S. Q., Hagan, K. E., Chapa, D. A. N., Tregarthen, J., Wildes, J. E., & Christensen, K. A. (2022). Generalized network psychometrics of eating‐disorder psychopathology. International Journal of Eating Disorders. Online First.      
+Forbush, K. T., Swanson, T. J., Chen, Y., Siew, C. S. Q., Hagan, K. E., Chapa, D. A. N., Tregarthen, J., Wildes, J. E., & Christensen, K. A. (2022). Generalized network psychometrics of eating‐disorder psychopathology. International Journal of Eating Disorders. *Online First*.      
 [Article](https://doi.org/10.1002/eat.23801)    
 
 Lee, N. H., Siew, C. S. Q., & Ng, N. H. N. (2022). The network nature of language endangerment hotspots. *Scientific Reports, 12*, 10803.     
