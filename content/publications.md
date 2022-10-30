@@ -12,7 +12,8 @@ Klishin, A. A., Christianson, N. H., Siew, C. S. Q., & Bassett, D. S. (2022). Le
 
 **Peer-Reviewed Articles**      
 
-Forbush, K. T., Swanson, T. J., Chen, Y., Siew, C. S. Q., Hagan, K. E., Chapa, D. A. N., Tregarthen, J., Wildes, J. E., & Christensen, K. A. (in press). Generalized network psychometrics of eating‐disorder psychopathology. International Journal of Eating Disorders.     
+Forbush, K. T., Swanson, T. J., Chen, Y., Siew, C. S. Q., Hagan, K. E., Chapa, D. A. N., Tregarthen, J., Wildes, J. E., & Christensen, K. A. (2022). Generalized network psychometrics of eating‐disorder psychopathology. International Journal of Eating Disorders. Online First.      
+[Article](https://doi.org/10.1002/eat.23801)    
 
 Lee, N. H., Siew, C. S. Q., & Ng, N. H. N. (2022). The network nature of language endangerment hotspots. *Scientific Reports, 12*, 10803.     
 [Open-Access Article](https://www.nature.com/articles/s41598-022-14479-1) | [Github](https://github.com/csqsiew/language-endangerment)     
