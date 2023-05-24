@@ -3,21 +3,35 @@ author:
 title: Conferences & Presentations
 ---
 
+**2023**
+
+Chern, J., Castro, N., & Siew, C. S. Q. (2023, July). Evidence of community structure in phonological networks of various languages. Poster to be presented at CogSci 2023, Sydney, Australia.    
+
+Wong, J. J., & Siew, C. S. Q. (2023, July). Word Association Norms for English Words Unique to Singapore English. Poster to be presented at CogSci 2023, Sydney, Australia.    
+
+Siew, C. S. Q. (2023, June). Higher L2 Proficiency is Associated with Greater Sensitivity to Distant Connections and Community Structure in the Phonological Lexicon. Talk to be presented at International Symposium on Bilingualism (ISB) 14, Macquarie University, Australia.    
+
+Chen, Y., Forbush, K., Swanson, T., Siew, C.S.Q., Hagan, K., Chapa, D., Tregarthen, J., Wildes, J., & Christensen, K. (2023, May). Generalized Network Psychometrics: The Structure of Eating Disorders Is Best Explained By a Hybrid Latent Variable and Network Framework. Talk and poster presented at the convention of Association of Psychological Science. Washington, DC.    
+
+Siew, C. S. Q. (2023, March). Measuring the Singaporean Mental Lexicon Through A Word Association Game. Pre-AGM talk presented to the Singapore Psychological Society.     
+
+Siew, C. S. Q. (2023, March). Measuring the Singaporean Mental Lexicon Through a Word Association Game. FASS Brown Bag Seminar Series, National University of Singapore, Singapore.         
+
 **2022**
 
-Siew, C. S. Q., Castro, N., & Chern, J. (2022, November). Higher L2 Proficiency is Associated with Greater Sensitivity to Distant Connections and Community Structure in the Phonological Lexicon. Talk to be presented at the 63rd Annual Meeting of the Psychonomic Society, Boston, USA.     
+Siew, C. S. Q. (2022, December). The Mental Lexicon As A Cognitive Network: Implications for language processing. Talk presented at Psychology Brown Bag Series, National Cheng Kung University, Taiwan.    
 
-* [Slides](https://bit.ly/siew-psynom-2022)    
+Siew, C. S. Q., Castro, N., & Chern, J. (2022, November). Higher L2 Proficiency is Associated with Greater Sensitivity to Distant Connections and Community Structure in the Phonological Lexicon. Talk presented at the 63rd Annual Meeting of the Psychonomic Society, Boston, USA.     
+
+* [Slides](https://osf.io/kps8th)    
 
 Siew, C. S. Q., & Tan, J. F. (2022, September). Production and perception errors from a speech error corpus reflect the macro- and meso-level structure of the phonological language network. Poster presented at Architectures and Mechanisms for Language Processing (AMLaP) 28. York, United Kingdom. *Online*.     
 
-* [Slides](https://bit.ly/siew-amlap-2022)
+* [Poster](https://osf.io/8gb7j)
 
 Siew, C. S. Q. (2022, June). The Mental Lexicon As A Cognitive Network: Implications for language processing. Talk presented at Macquarie University, Sydney, Australia.      
 
 Siew, C. S. Q. (2022, May). Quantifying the Structure of the Mental Lexicon Using Network Science. Talk presented at the HUST-NUS Academic Lecture Series. *Online*     
-
-* [Slides](https://www.dropbox.com/s/eif80jwy7790p67/Siew_HUST_Talk_Slides.pdf?dl=0)      
 
 Siew, C. S. Q. (2022, April). The Mental Lexicon As A Cognitive Network: Implications for language processing and acquisition. Talk presented at the James Cook University (Singapore) Brownbag Series, Singapore. *Online*
 
@@ -25,7 +39,7 @@ Siew, C. S. Q. (2022, April). The Mental Lexicon As A Cognitive Network: Implica
 
 Siew, C. S. Q., & Castro, N. (2021, November). Phonological Relatedness Judgments Reflect the Existence of (Somewhat) Distant Connections and Community Structure in the Phonological Lexicon. Poster presented at the 62nd Annual Meeting of the Psychonomic Society, New Orleans, USA. *Online*   
 
-* [Poster](https://cloud.csqsiew.xyz/nextcloud/index.php/s/innZQBWNagTbJtq)
+* [Poster](https://osf.io/gm3ck)
 
 Siew, C. S. Q., & Castro, N. (2021, October). Long distance connections in the phonological network. Talk presented at CompCog: A satellite symposium of the Conference on Complex Systems 2021. *Online*.    
 
@@ -35,12 +49,12 @@ Siew, C. S. Q., & Vitevitch, M. S. (2021). An investigation of network growth pr
 
 Siew, C. S. Q. (2021). Investigating the effect of distance entropy on semantic priming. Poster presented at the 43rd Annual Meeting of the Cognitive Science Society, Vienna, Austria. *Online*   
 
-* [Poster](https://cloud.csqsiew.xyz/nextcloud/index.php/s/9GKz7CXN2RBiLjB)  
-* [Slides](https://cloud.csqsiew.xyz/nextcloud/index.php/s/ebBY2HLzsCPARKR)    
+* [Poster](https://osf.io/gh2v6)  
+* [Slides](https://osf.io/jcnpv)    
 
 Siew, C. S. Q., & Guru, A. (2021). Longitudinal Subject Fluency Networks of Psychology and Biology Students. Poster presented at the 4th Northeast Regional Conference on Complex Systems, Binghamton University, USA. *Online*   
 
-* [Poster](https://cloud.csqsiew.xyz/nextcloud/index.php/s/qPkGtx7owcNZmCj)  
+* [Poster](https://osf.io/69tke)  
 
 **2020**
 

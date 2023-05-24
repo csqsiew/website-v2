@@ -12,22 +12,26 @@ Klishin, A. A., Christianson, N. H., Siew, C. S. Q., & Bassett, D. S. (2022). Le
 
 **Peer-Reviewed Articles**      
 
-Forbush, K. T., Swanson, T. J., Chen, Y., Siew, C. S. Q., Hagan, K. E., Chapa, D. A. N., Tregarthen, J., Wildes, J. E., & Christensen, K. A. (2022). Generalized network psychometrics of eating‐disorder psychopathology. International Journal of Eating Disorders. *Online First*.      
+Siew, C. S. Q., & Castro, N. (in press). Phonological Similarity Judgments of Word Pairs Reflect Sensitivity to Large-Scale Structure of the Phonological Lexicon. *Journal of Experimental Psychology: Learning, Memory, and Cognition.*     
+
+Citraro, S., Warner-Willich, J., Battiston, F., Siew, C. S. Q., Rosetti, G., & Stella, M. (in press). Hypergraph models of the mental lexicon capture greater information than pairwise networks for predicting language learning. *New Ideas in Psychology.*    
+
+Siew, C. S. Q., & Guru, A. (2023). Investigating the network structure of domain-specific knowledge using the semantic fluency task. *Memory and Cognition, 51,* 623-646.        
+[Article](https://link.springer.com/article/10.3758/s13421-022-01314-1) | [Preprint](https://psyarxiv.com/g3aeq) | [OSF](https://osf.io/yjzma) | [All Things Cognition Podcast](https://featuredcontent.psychonomic.org/semantic-fluency-of-novices-and-experts-increase-understanding-of-knowledge-networks/)           
+
+Forbush, K. T., Swanson, T. J., Chen, Y., Siew, C. S. Q., Hagan, K. E., Chapa, D. A. N., Tregarthen, J., Wildes, J. E., & Christensen, K. A. (2022). Generalized network psychometrics of eating‐disorder psychopathology. *International Journal of Eating Disorders, 55*(11), 1603-1613.          
 [Article](https://doi.org/10.1002/eat.23801)    
 
 Lee, N. H., Siew, C. S. Q., & Ng, N. H. N. (2022). The network nature of language endangerment hotspots. *Scientific Reports, 12*, 10803.     
 [Open-Access Article](https://www.nature.com/articles/s41598-022-14479-1) | [Github](https://github.com/csqsiew/language-endangerment)     
 
-Li, Y., & Siew, C. S. Q. (2022). Diachronic semantic change in language influences, and is constrained by, how people use and learn language. *Memory and Cognition*. *Online First*      
+Li, Y., & Siew, C. S. Q. (2022). Diachronic semantic change in language influences, and is constrained by, how people use and learn language. *Memory and Cognition, 50*, 1284-1298.       
 [Open-Access Article](https://link.springer.com/article/10.3758/s13421-022-01331-0) | [Preprint & OSF](https://osf.io/gw8vj/)      
   
-Siew, C. S. Q., & Guru, A. (2022). Investigating the network structure of domain-specific knowledge using the semantic fluency task. *Memory and Cognition*. *Online First*       
-[Article](https://link.springer.com/article/10.3758/s13421-022-01314-1) | [Preprint](https://psyarxiv.com/g3aeq) | [OSF](https://osf.io/yjzma) | [All Things Cognition Podcast](https://featuredcontent.psychonomic.org/semantic-fluency-of-novices-and-experts-increase-understanding-of-knowledge-networks/)           
-
 Kumar, A. M., Goh, J. Y. Q., Tan, T. H. H., & Siew, C. S. Q. (2022). Gender Stereotypes in Hollywood Movies and Their Evolution Over Time: Insights from Network Analysis. *Big Data and Cognitive Computing, 6*(2), 50. DOI: 10.3390/bdcc6020050     
 [Open-Access Article](https://www.mdpi.com/2504-2289/6/2/50) | [Github](https://github.com/arjunkmrm/film-networks)     
 
-Siew, C. S. Q., Engelthaler, T., & Hills, T. T. (2022). Nymph Piss and Gravy Orgies: Local and Global Contrast Effects in Relational Humor. *Journal of Experimental Psychology: Learning, Memory, and Cognition.* Advance online publication. DOI: 10.1037/xlm0001120      
+Siew, C. S. Q., Engelthaler, T., & Hills, T. T. (2022). Nymph Piss and Gravy Orgies: Local and Global Contrast Effects in Relational Humor. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 48*(7), 1047-1063. DOI: 10.1037/xlm0001120      
 [Article](https://psycnet.apa.org/record/2022-51465-001) | [Preprint](https://doi.org/10.31234/osf.io/3r7fw) | [OSF](https://osf.io/wy98d/) | [Shiny Application](https://csqsiew.shinyapps.io/humorous_phrases/) | [In the news](https://www.newscientist.com/article/2319945-why-some-words-become-funnier-when-paired-together/) | *APA Editors' Choice Article*      
 
 Siew, C. S. Q. (2021). Global and local feature distinctiveness effects in language acquisition. *Cognitive Science, 45*(7), e13008.     
