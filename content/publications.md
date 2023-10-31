@@ -12,9 +12,16 @@ Klishin, A. A., Christianson, N. H., Siew, C. S. Q., & Bassett, D. S. (2022). Le
 
 **Peer-Reviewed Articles**      
 
-Siew, C. S. Q., & Castro, N. (in press). Phonological Similarity Judgments of Word Pairs Reflect Sensitivity to Large-Scale Structure of the Phonological Lexicon. *Journal of Experimental Psychology: Learning, Memory, and Cognition.*     
+Siew, C. S. Q. (forthcoming). “Spoken Word Recognition.” In Oxford Bibliographies in Linguistics. Ed. Mark Aronoff. New York: Oxford University Press.    
 
-Citraro, S., Warner-Willich, J., Battiston, F., Siew, C. S. Q., Rosetti, G., & Stella, M. (in press). Hypergraph models of the mental lexicon capture greater information than pairwise networks for predicting language learning. *New Ideas in Psychology.*    
+Li, Y., Breithaupt, F., Siew, C. S. Q., Hills, T. T., Chen, Y., & Hertwig, R. (in press). The Struggle for Life among Words: How Cognitive Selection Shapes Language Evolution. *Proceedings of the National Academy of Sciences.*     
+[Preprint](https://osf.io/exfc5)     
+
+Siew, C. S. Q., & Castro, N. (2023). Phonological Similarity Judgments of Word Pairs Reflect Sensitivity to Large-Scale Structure of the Phonological Lexicon. *Journal of Experimental Psychology: Learning, Memory, and Cognition.* Advance online publication.   
+[Article](https://psycnet.apa.org/record/2023-90214-001) | [Preprint](https://osf.io/2aqu5)     
+
+Citraro, S., Warner-Willich, J., Battiston, F., Siew, C. S. Q., Rosetti, G., & Stella, M. (2023). Hypergraph models of the mental lexicon capture greater information than pairwise networks for predicting language learning. *New Ideas in Psychology, 71,* 101034.      
+[Article](https://www.sciencedirect.com/science/article/abs/pii/S0732118X23000272?via%3Dihub)    
 
 Siew, C. S. Q., & Guru, A. (2023). Investigating the network structure of domain-specific knowledge using the semantic fluency task. *Memory and Cognition, 51,* 623-646.        
 [Article](https://link.springer.com/article/10.3758/s13421-022-01314-1) | [Preprint](https://psyarxiv.com/g3aeq) | [OSF](https://osf.io/yjzma) | [All Things Cognition Podcast](https://featuredcontent.psychonomic.org/semantic-fluency-of-novices-and-experts-increase-understanding-of-knowledge-networks/)           
@@ -86,7 +93,7 @@ Li, Y., Engelthaler, T., Siew, C. S. Q., & Hills, T. T. (2019). The Macroscope: 
 [Open-Access Article](https://link.springer.com/article/10.3758/s13428-018-1177-6) | [The Macroscope](http://www.macroscope.tech/)      
 
 Siew, C. S. Q., McCartney, M. J., & Vitevitch, M. S. (2019). Using network science to understand statistics anxiety among college students. *Scholarship of Teaching and Learning in Psychology.* Advance online publication. DOI: 10.1037/stl0000133       
-[Open-Access Article](http://psycnet.apa.org/fulltext/2019-01035-001.pdf) | [KU Press Release](http://today.ku.edu/2018/12/21/statistics-anxiety-real-and-new-research-suggests-targeted-ways-handle-it)            
+[Open-Access Article](http://psycnet.apa.org/fulltext/2019-01035-001.pdf) | [KU Press Release](http://today.ku.edu/2018/12/21/statistics-anxiety-real-and-new-research-suggests-targeted-ways-handle-it) | [Popular press article](https://www.passionateinmarketing.com/world-statistics-day-statistics-anxiety-a-growing-concern-for-mental-health/)            
 
 Siew, C. S. Q. (2018). Using network science to analyze concept maps of psychology undergraduates. *Applied Cognitive Psychology.* 1-7. DOI: 10.1002/acp.3484      
 [Article](https://onlinelibrary.wiley.com/doi/full/10.1002/acp.3484)

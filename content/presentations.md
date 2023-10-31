@@ -5,11 +5,27 @@ title: Conferences & Presentations
 
 **2023**
 
-Chern, J., Castro, N., & Siew, C. S. Q. (2023, July). Evidence of community structure in phonological networks of various languages. Poster to be presented at CogSci 2023, Sydney, Australia.    
+Wong, J. J., & Siew, C. S. Q. (2023, November). Word Association Network of English Words Unique to Singapore English. Talk to be presented at the 1st International Workshop on Cognitive AI (CogAI), Barin, Italy.   
 
-Wong, J. J., & Siew, C. S. Q. (2023, July). Word Association Norms for English Words Unique to Singapore English. Poster to be presented at CogSci 2023, Sydney, Australia.    
+Siew, C. S. Q. (2023, November). Language networks as a framework for exploring the mental lexicon. Invited talk to be presented as part of the Presidential Symposium at the 53rd Annual Meeting of the Society for Computation in Psychology, San Francisco, USA.   
 
-Siew, C. S. Q. (2023, June). Higher L2 Proficiency is Associated with Greater Sensitivity to Distant Connections and Community Structure in the Phonological Lexicon. Talk to be presented at International Symposium on Bilingualism (ISB) 14, Macquarie University, Australia.    
+Siew, C. S. Q. (2023, November). Comparing humor norms of English words across speakers of North American, British, and Singapore English. Talk to be presented at the 53rd Annual Meeting of the Society for Computation in Psychology, San Francisco, USA.   
+
+Siew, C. S. Q. (2023, November). Network Distance and Levenshtein Distance Influence Sound Similarity of Word Pairs in the Phonological Mental Lexicon. Talk to be presented at the 64th Annual Meeting of the Psychonomic Society, San Francisco, USA.    
+
+* [Slides](https://bit.ly/siew-psynom-2023)
+
+Siew, C. S. Q., (2023, October). Leveraging on Network Analysis to Uncover Mental Lexicon Structure. Invited talk presented at the Institute of Policy Studies' Social Lab Meeting.    
+
+* [Slides](https://bit.ly/siew-ips-talk)
+
+Chern, J., Castro, N., & Siew, C. S. Q. (2023, July). Evidence of community structure in phonological networks of various languages. Poster presented at CogSci 2023, Sydney, Australia.    
+
+* [Poster](https://bit.ly/siew-cogsci-23)
+
+Siew, C. S. Q. (2023, June). Higher L2 Proficiency is Associated with Greater Sensitivity to Distant Connections and Community Structure in the Phonological Lexicon. Talk presented at International Symposium on Bilingualism (ISB) 14, Macquarie University, Australia.    
+
+* [Slides](https://bit.ly/siew-isb14-2023)
 
 Chen, Y., Forbush, K., Swanson, T., Siew, C.S.Q., Hagan, K., Chapa, D., Tregarthen, J., Wildes, J., & Christensen, K. (2023, May). Generalized Network Psychometrics: The Structure of Eating Disorders Is Best Explained By a Hybrid Latent Variable and Network Framework. Talk and poster presented at the convention of Association of Psychological Science. Washington, DC.    
 
