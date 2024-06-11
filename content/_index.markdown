@@ -2,7 +2,7 @@
 title: Home
 ---
 
-[<img src="img/profile2.jpg" style="max-width:20%;min-width:60px;float:right;" alt="Github repo" />](https://github.com/yihui/hugo-xmin)
+[<img src="img/profile2.jpg" style="max-width:20%;min-width:60px;float:right;" alt="" />]
 
 # Cynthia S. Q. Siew
 

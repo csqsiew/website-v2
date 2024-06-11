@@ -3,15 +3,30 @@ author:
 title: Conferences & Presentations
 ---
 
+*I upload all posters and talk slides [here](https://osf.io/d56mf/) - if something is missing feel free to [email](mailto:cynthia@nus.edu.sg) me.*
+
+**2024**
+
+Siew, C. S. Q. (2024, September). The Mental Lexicon As A Complex Network. [Invited talk](https://ccs24.cssociety.org/keynotes-invited/#invited-speakers) to be presented at the Conference for Complex Systems 2024, Exeter, UK. 
+
+Siew, C. S. Q. (2024, July). Beyond cats and dogs: Memory search in diverse domains of knowledge. Talk to be presented at CogSci 2024, Rotterdam, Netherlands. [As part of a symposium on "Dynamics of Memory Search"]
+
+Siew, C. S. Q. (2024, July). Tracking Lexical Knowledge of Concepts Unique to Singapore English Among Speakers of Singapore English. Poster to be presented at CogSci 2024, Rotterdam, Netherlands. 
+
+Siew, C. S. Q. (2024, July). Chinese Character Network Structure Affects Processing of Single Chinese Characters. Poster to be presented at CogSci 2024, Rotterdam, Netherlands. 
+
+Siew, C. S. Q. (2024, June). Landmarks in the Phonological Lexicon Influence Judgments of Phonological Similarity. Paper presented at Virtual MathPsych/ICCM 2024. https://mathpsych.org/presentation/1412    
+[Presentation](https://mathpsych.org/presentation/1412)
+
 **2023**
 
-Wong, J. J., & Siew, C. S. Q. (2023, November). Word Association Network of English Words Unique to Singapore English. Talk to be presented at the 1st International Workshop on Cognitive AI (CogAI), Barin, Italy.   
+Wong, J. J., & Siew, C. S. Q. (2023, November). Word Association Network of English Words Unique to Singapore English. Talk presented at the 1st International Workshop on Cognitive AI (CogAI), Barin, Italy.   
 
-Siew, C. S. Q. (2023, November). Language networks as a framework for exploring the mental lexicon. Invited talk to be presented as part of the Presidential Symposium at the 53rd Annual Meeting of the Society for Computation in Psychology, San Francisco, USA.   
+Siew, C. S. Q. (2023, November). Language networks as a framework for exploring the mental lexicon. Invited talk presented as part of the Presidential Symposium at the 53rd Annual Meeting of the Society for Computation in Psychology, San Francisco, USA.   
 
-Siew, C. S. Q. (2023, November). Comparing humor norms of English words across speakers of North American, British, and Singapore English. Talk to be presented at the 53rd Annual Meeting of the Society for Computation in Psychology, San Francisco, USA.   
+Siew, C. S. Q. (2023, November). Comparing humor norms of English words across speakers of North American, British, and Singapore English. Talk presented at the 53rd Annual Meeting of the Society for Computation in Psychology, San Francisco, USA.   
 
-Siew, C. S. Q. (2023, November). Network Distance and Levenshtein Distance Influence Sound Similarity of Word Pairs in the Phonological Mental Lexicon. Talk to be presented at the 64th Annual Meeting of the Psychonomic Society, San Francisco, USA.    
+Siew, C. S. Q. (2023, November). Network Distance and Levenshtein Distance Influence Sound Similarity of Word Pairs in the Phonological Mental Lexicon. Talk presented at the 64th Annual Meeting of the Psychonomic Society, San Francisco, USA.    
 
 * [Slides](https://bit.ly/siew-psynom-2023)
 

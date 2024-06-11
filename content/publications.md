@@ -10,15 +10,31 @@ _Feel free to [email](/connect) me for copies of any of the articles below._
 Klishin, A. A., Christianson, N. H., Siew, C. S. Q., & Bassett, D. S. (2022). Learning Dynamic Graphs, Too Slow. arXiv preprint arXiv:2207.02177.    
 [Preprint](https://arxiv.org/abs/2207.02177)    
 
-**Peer-Reviewed Articles**      
+**Peer-Reviewed Articles and Conference Proceedings**      
 
-Siew, C. S. Q. (forthcoming). “Spoken Word Recognition.” In Oxford Bibliographies in Linguistics. Ed. Mark Aronoff. New York: Oxford University Press.    
+Siew, C. S. Q. (in press). A comparison of word humor ratings across speakers of North American, British, and Singapore English. *Memory & Cognition*.    
+[Preprint](https://osf.io/preprints/psyarxiv/sz8pa) | [OSF](https://osf.io/pg3fr/)
 
-Li, Y., Breithaupt, F., Siew, C. S. Q., Hills, T. T., Chen, Y., & Hertwig, R. (in press). The Struggle for Life among Words: How Cognitive Selection Shapes Language Evolution. *Proceedings of the National Academy of Sciences.*     
-[Preprint](https://osf.io/exfc5)     
+Siew, C. S. Q. (2024). Tracking Lexical Knowledge of Concepts Unique to Singapore English Among Speakers of Singapore English. *Proceedings of the Annual Meeting of the Cognitive Science Society, 46*. Retrieved from https://escholarship.org/uc/item/8d8595gm    
+[Proceedings](https://escholarship.org/uc/item/8d8595gm#main) | [OSF](https://osf.io/yab78/)
 
-Siew, C. S. Q., & Castro, N. (2023). Phonological Similarity Judgments of Word Pairs Reflect Sensitivity to Large-Scale Structure of the Phonological Lexicon. *Journal of Experimental Psychology: Learning, Memory, and Cognition.* Advance online publication.   
-[Article](https://psycnet.apa.org/record/2023-90214-001) | [Preprint](https://osf.io/2aqu5)     
+Wong, J. J., & Siew, C. S. Q. (2024). Preliminary Data from the Small World of Singlish Words Project: Examining Responses to Common Singlish Words. *Journal of Open Psychology Data*. https://openpsychologydata.metajnl.com/articles/10.5334/jopd.108    
+[Open-Access Article](https://openpsychologydata.metajnl.com/articles/10.5334/jopd.108) | [OSF](https://osf.io/t2qxh/)    
+
+Castro, N., & Siew, C. S. Q. (2024). Preliminary evidence for two patterns of phonological similarity judgments of word-pairs by persons with Aphasia. *Aphasiology*, 1–21. https://doi.org/10.1080/02687038.2024.2323224
+[Article](https://www.tandfonline.com/doi/full/10.1080/02687038.2024.2323224)
+
+Siew, C. S. Q. (2024). “Spoken Word Recognition.” In *Oxford Bibliographies in Linguistics*. Ed. Mark Aronoff. New York: Oxford University Press.    
+[Article](https://www.oxfordbibliographies.com/display/document/obo-9780199772810/obo-9780199772810-0317.xml)
+
+Li, Y., Breithaupt, F., Siew, C. S. Q., Hills, T. T., Chen, Y., & Hertwig, R. (2024). The Struggle for Life among Words: How Cognitive Selection Shapes Language Evolution. *Proceedings of the National Academy of Sciences, 121*(1), e2220898120.     
+[Article](https://www.pnas.org/doi/10.1073/pnas.2220898120) | [Preprint](https://osf.io/exfc5) | [OSF](https://osf.io/zhb68/)     
+
+Wong, J. J., & Siew, C. S. Q. (2023). Word Association Network of English Words Unique to Singapore English. In P. L. Villagrá, X. Li (Eds.), Proceedings of the International Workshop on Cognitive AI 2023 co-located with the 3rd International Conference on Learning & Reasoning (IJCLR 2023). https://ceur-ws.org/Vol-3644/    
+[Proceedings](https://ceur-ws.org/Vol-3644/IJCLR2023_paper_19.pdf)
+
+Siew, C. S. Q., & Castro, N. (2023). Phonological Similarity Judgments of Word Pairs Reflect Sensitivity to Large-Scale Structure of the Phonological Lexicon. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 49*(12), 1989-2002.    
+[Article](https://psycnet.apa.org/record/2023-90214-001) | [Preprint](https://osf.io/2aqu5) | [OSF](https://osf.io/hw2sy/)     
 
 Citraro, S., Warner-Willich, J., Battiston, F., Siew, C. S. Q., Rosetti, G., & Stella, M. (2023). Hypergraph models of the mental lexicon capture greater information than pairwise networks for predicting language learning. *New Ideas in Psychology, 71,* 101034.      
 [Article](https://www.sciencedirect.com/science/article/abs/pii/S0732118X23000272?via%3Dihub)    

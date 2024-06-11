@@ -5,6 +5,8 @@ title: Teaching
 
 ### National University of Singapore (2019-present)     
 
+**PL3103 Cognitive Psychology**
+
 **PL3237 Language and Cognitive Processes**    
 
 **PL3281E Lab in Speech and Language Processes**     
