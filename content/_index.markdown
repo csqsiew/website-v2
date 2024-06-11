@@ -2,7 +2,7 @@
 title: Home
 ---
 
-[<img src="img/profile2.jpg" style="max-width:20%;min-width:60px;float:right;" alt="profile" />]
+<img src="img/profile2.jpg" style="max-width:20%;min-width:60px;float:right;" alt="profile" />
 
 # Cynthia S. Q. Siew
 
