@@ -11,6 +11,8 @@ _cynthia at nus dot edu dot sg_
 
 View my CV [here.](https://osf.io/hzkfw) (last updated June 2024)    
 
+### About me
+
 When I'm not doing research, I'm either climbing, strumming my ukulele, or hanging out with Dougie the Corgi and Russ the Cat *(RIP, Russ)*. Sometimes I work on random things like making 3-D models of networks. Here is a shameless plug for my [Shapeways](https://www.shapeways.com/shops/csqsiew) and [Redbubble](https://www.redbubble.com/people/csqsiew) shops. Please feel free to buy a couple of 3-D printed network models from Shapeways, I promise they look real nice on your office/coffee table :) The network stickers will look nice on your laptop too! 
 
 Recently I have gotten very interested in ["de-Googling"](https://www.eff.org/) my digital footprint, learning about [Linux](https://pop.system76.com/), and developing my personal knowledge management and GTD system. You may find useful and mostly random things on my [R Shiny server](http://r-server.csqsiew.xyz/). My [personal blog](https://listed.to/@SeaEss) could also be a fun read if you enjoy reading about my rants about academia and climbing.   

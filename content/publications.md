@@ -21,7 +21,7 @@ Siew, C. S. Q. (2024). Tracking Lexical Knowledge of Concepts Unique to Singapor
 Wong, J. J., & Siew, C. S. Q. (2024). Preliminary Data from the Small World of Singlish Words Project: Examining Responses to Common Singlish Words. *Journal of Open Psychology Data*. https://openpsychologydata.metajnl.com/articles/10.5334/jopd.108    
 [Open-Access Article](https://openpsychologydata.metajnl.com/articles/10.5334/jopd.108) | [OSF](https://osf.io/t2qxh/)    
 
-Castro, N., & Siew, C. S. Q. (2024). Preliminary evidence for two patterns of phonological similarity judgments of word-pairs by persons with Aphasia. *Aphasiology*, 1–21. https://doi.org/10.1080/02687038.2024.2323224
+Castro, N., & Siew, C. S. Q. (2024). Preliminary evidence for two patterns of phonological similarity judgments of word-pairs by persons with Aphasia. *Aphasiology*, 1–21. https://doi.org/10.1080/02687038.2024.2323224     
 [Article](https://www.tandfonline.com/doi/full/10.1080/02687038.2024.2323224)
 
 Siew, C. S. Q. (2024). “Spoken Word Recognition.” In *Oxford Bibliographies in Linguistics*. Ed. Mark Aronoff. New York: Oxford University Press.    

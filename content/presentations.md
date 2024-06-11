@@ -15,7 +15,7 @@ Siew, C. S. Q. (2024, July). Tracking Lexical Knowledge of Concepts Unique to Si
 
 Siew, C. S. Q. (2024, July). Chinese Character Network Structure Affects Processing of Single Chinese Characters. Poster to be presented at CogSci 2024, Rotterdam, Netherlands. 
 
-Siew, C. S. Q. (2024, June). Landmarks in the Phonological Lexicon Influence Judgments of Phonological Similarity. Paper presented at Virtual MathPsych/ICCM 2024. https://mathpsych.org/presentation/1412    
+Siew, C. S. Q. (2024, June). Landmarks in the Phonological Lexicon Influence Judgments of Phonological Similarity. Paper presented at Virtual MathPsych/ICCM 2024. https://mathpsych.org/presentation/1412 [As part of a symposium on "Cognitive Network Science"]     
 [Presentation](https://mathpsych.org/presentation/1412)
 
 **2023**
