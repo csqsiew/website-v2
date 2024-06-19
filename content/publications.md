@@ -12,8 +12,8 @@ Klishin, A. A., Christianson, N. H., Siew, C. S. Q., & Bassett, D. S. (2022). Le
 
 **Peer-Reviewed Articles and Conference Proceedings**      
 
-Siew, C. S. Q. (in press). A comparison of word humor ratings across speakers of North American, British, and Singapore English. *Memory & Cognition*.    
-[Preprint](https://osf.io/preprints/psyarxiv/sz8pa) | [OSF](https://osf.io/pg3fr/)
+Siew, C. S. Q. (2024). A comparison of word humor ratings across speakers of North American, British, and Singapore English. *Memory & Cognition*. https://doi.org/10.3758/s13421-024-01587-8       
+[Article](https://link.springer.com/article/10.3758/s13421-024-01587-8) | [View-Only Access](https://rdcu.be/dKFnu) | [Preprint](https://osf.io/preprints/psyarxiv/sz8pa) | [OSF](https://osf.io/pg3fr/)
 
 Siew, C. S. Q. (2024). Tracking Lexical Knowledge of Concepts Unique to Singapore English Among Speakers of Singapore English. *Proceedings of the Annual Meeting of the Cognitive Science Society, 46*. Retrieved from https://escholarship.org/uc/item/8d8595gm    
 [Proceedings](https://escholarship.org/uc/item/8d8595gm#main) | [OSF](https://osf.io/yab78/)
