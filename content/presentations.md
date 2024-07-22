@@ -9,11 +9,17 @@ title: Conferences & Presentations
 
 Siew, C. S. Q. (2024, September). The Mental Lexicon As A Complex Network. [Invited talk](https://ccs24.cssociety.org/keynotes-invited/#invited-speakers) to be presented at the Conference for Complex Systems 2024, Exeter, UK. 
 
-Siew, C. S. Q. (2024, July). Beyond cats and dogs: Memory search in diverse domains of knowledge. Talk to be presented at CogSci 2024, Rotterdam, Netherlands. [As part of a symposium on "Dynamics of Memory Search"]
+Siew, C. S. Q. (2024, July). Beyond cats and dogs: Memory search in diverse domains of knowledge. Talk presented at CogSci 2024, Rotterdam, Netherlands. [As part of a symposium on "Dynamics of Memory Search"]
 
-Siew, C. S. Q. (2024, July). Tracking Lexical Knowledge of Concepts Unique to Singapore English Among Speakers of Singapore English. Poster to be presented at CogSci 2024, Rotterdam, Netherlands. 
+* [Slides](https://osf.io/e98w6)
 
-Siew, C. S. Q. (2024, July). Chinese Character Network Structure Affects Processing of Single Chinese Characters. Poster to be presented at CogSci 2024, Rotterdam, Netherlands. 
+Siew, C. S. Q. (2024, July). Tracking Lexical Knowledge of Concepts Unique to Singapore English Among Speakers of Singapore English. Poster presented at CogSci 2024, Rotterdam, Netherlands. 
+
+* [Poster](https://osf.io/mrudw)
+
+Siew, C. S. Q. (2024, July). Chinese Character Network Structure Affects Processing of Single Chinese Characters. Poster presented at CogSci 2024, Rotterdam, Netherlands. 
+
+* [Poster](https://osf.io/xwy64)
 
 Siew, C. S. Q. (2024, June). Landmarks in the Phonological Lexicon Influence Judgments of Phonological Similarity. Paper presented at Virtual MathPsych/ICCM 2024. https://mathpsych.org/presentation/1412 [As part of a symposium on "Cognitive Network Science"]     
 

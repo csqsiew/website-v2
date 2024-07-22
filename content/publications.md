@@ -12,6 +12,8 @@ Klishin, A. A., Christianson, N. H., Siew, C. S. Q., & Bassett, D. S. (2022). Le
 
 **Peer-Reviewed Articles and Conference Proceedings**      
 
+Reilly J, Shain C, Borghesani V, Kuhnke P, Vigliocco G, Peelle JE, Mahon B, Buxbaum L, Majid A, Brysbaert M, Borghi A, De Deyne S, Dove G, Papeo L, Pexman P, Poeppel D, Lupyan G, Boggio P, Hickock G, Gwilliams L, Fernandino L, Mirman D, Chrysikou EG, Sandberg C, Crutch SJ, Pylkkänen L, Yee E, Jackson R, Rodd J, Bedny M, Connell L, Kiefer M, Kemmerer D, Zubicaray G, Jefferies E, Lynott D, Siew C, Desai R, Cantlon J, McRae K, Diaz M, Bolognesi M, Fedorenko E, Kiran S, Montefinesse M,, Binder JR, Yap M, Hartwigsen G, Bi Y, Hoffman, P, Garcea F, & Vinson D (2024, in press). What we mean when we say semantic: A multidisciplinary semantic glossary. *Psychonomic Bulletin and Review.*    
+
 Siew, C. S. Q. (2024). A comparison of word humor ratings across speakers of North American, British, and Singapore English. *Memory & Cognition*. https://doi.org/10.3758/s13421-024-01587-8       
 [Article](https://link.springer.com/article/10.3758/s13421-024-01587-8) | [View-Only Access](https://rdcu.be/dKFnu) | [Preprint](https://osf.io/preprints/psyarxiv/sz8pa) | [OSF](https://osf.io/pg3fr/)
 
