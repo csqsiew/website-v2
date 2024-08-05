@@ -9,6 +9,10 @@ title: Conferences & Presentations
 
 Siew, C. S. Q. (2024, September). The Mental Lexicon As A Complex Network. [Invited talk](https://ccs24.cssociety.org/keynotes-invited/#invited-speakers) to be presented at the Conference for Complex Systems 2024, Exeter, UK. 
 
+Siew, C. S. Q. (2024, August). The Mental Lexicon As A Cognitive Network. Guest lecture at Technion, Israel Institute of Technology. 
+
+* [Slides](https://osf.io/q6bc3)
+
 Siew, C. S. Q. (2024, July). Beyond cats and dogs: Memory search in diverse domains of knowledge. Talk presented at CogSci 2024, Rotterdam, Netherlands. [As part of a symposium on "Dynamics of Memory Search"]
 
 * [Slides](https://osf.io/e98w6)
