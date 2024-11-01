@@ -14,12 +14,10 @@ Klishin, A. A., Christianson, N. H., Siew, C. S. Q., & Bassett, D. S. (2022). Le
 
 **Peer-Reviewed Articles and Conference Proceedings**      
 
-**Chern, J.**, Castro, N., & Siew, C. S. Q. (2024). Evidence of community structure in phonological networks of multiple languages. *Canadian Journal of Experimental Psychology / Revue canadienne de psychologie expérimentale*. Advance online publication. https://doi.org/10.1037/cep0000357
-
+**Chern, J.**, Castro, N., & Siew, C. S. Q. (2024). Evidence of community structure in phonological networks of multiple languages. *Canadian Journal of Experimental Psychology / Revue canadienne de psychologie expérimentale*. Advance online publication. https://doi.org/10.1037/cep0000357     
 [Article](https://doi.org/10.1037/cep0000357) | [Preprint & OSF](https://osf.io/wh64p/)
 
-Reilly J, Shain C, Borghesani V, Kuhnke P, Vigliocco G, Peelle JE, Mahon B, Buxbaum L, Majid A, Brysbaert M, Borghi A, De Deyne S, Dove G, Papeo L, Pexman P, Poeppel D, Lupyan G, Boggio P, Hickock G, Gwilliams L, Fernandino L, Mirman D, Chrysikou EG, Sandberg C, Crutch SJ, Pylkkänen L, Yee E, Jackson R, Rodd J, Bedny M, Connell L, Kiefer M, Kemmerer D, Zubicaray G, Jefferies E, Lynott D, Siew C, Desai R, Cantlon J, McRae K, Diaz M, Bolognesi M, Fedorenko E, Kiran S, Montefinesse M,, Binder JR, Yap M, Hartwigsen G, Bi Y, Hoffman, P, Garcea F, & Vinson D (2024, in press). What we mean when we say semantic: A multidisciplinary semantic glossary. *Psychonomic Bulletin and Review.* Advance online publication. https://doi.org/10.3758/s13423-024-02556-7    
-
+Reilly J, Shain C, Borghesani V, Kuhnke P, Vigliocco G, Peelle JE, Mahon B, Buxbaum L, Majid A, Brysbaert M, Borghi A, De Deyne S, Dove G, Papeo L, Pexman P, Poeppel D, Lupyan G, Boggio P, Hickock G, Gwilliams L, Fernandino L, Mirman D, Chrysikou EG, Sandberg C, Crutch SJ, Pylkkänen L, Yee E, Jackson R, Rodd J, Bedny M, Connell L, Kiefer M, Kemmerer D, Zubicaray G, Jefferies E, Lynott D, Siew C, Desai R, Cantlon J, McRae K, Diaz M, Bolognesi M, Fedorenko E, Kiran S, Montefinesse M,, Binder JR, Yap M, Hartwigsen G, Bi Y, Hoffman, P, Garcea F, & Vinson D (2024, in press). What we mean when we say semantic: A multidisciplinary semantic glossary. *Psychonomic Bulletin and Review.* Advance online publication.      https://doi.org/10.3758/s13423-024-02556-7    
 [Open-Access Article](https://link.springer.com/article/10.3758/s13423-024-02556-7) 
 
 Siew, C. S. Q. (2024). A comparison of word humor ratings across speakers of North American, British, and Singapore English. *Memory & Cognition*. https://doi.org/10.3758/s13421-024-01587-8       
@@ -31,11 +29,10 @@ Siew, C. S. Q. (2024). Tracking Lexical Knowledge of Concepts Unique to Singapor
 Wong, J. J., & Siew, C. S. Q. (2024). Preliminary Data from the Small World of Singlish Words Project: Examining Responses to Common Singlish Words. *Journal of Open Psychology Data*. https://openpsychologydata.metajnl.com/articles/10.5334/jopd.108    
 [Open-Access Article](https://openpsychologydata.metajnl.com/articles/10.5334/jopd.108) | [OSF](https://osf.io/t2qxh/)    
 
-Castro, N., & Siew, C. S. Q. (2024). Preliminary evidence for two patterns of phonological similarity judgments of word-pairs by persons with Aphasia. *Aphasiology, 38*(11), 1745–1765. https://doi.org/10.1080/02687038.2024.2323224
-
+Castro, N., & Siew, C. S. Q. (2024). Preliminary evidence for two patterns of phonological similarity judgments of word-pairs by persons with Aphasia. *Aphasiology, 38*(11), 1745–1765. https://doi.org/10.1080/02687038.2024.2323224     
 [Article](https://www.tandfonline.com/doi/full/10.1080/02687038.2024.2323224)
 
-Siew, C. S. Q. (2024). “Spoken Word Recognition.” In *Oxford Bibliographies in Linguistics*. Ed. Mark Aronoff. New York: Oxford University Press.    
+Siew, C. S. Q. (2024). “Spoken Word Recognition.” In *Oxford Bibliographies in Linguistics*. Ed. Mark Aronoff. New York: Oxford University Press.     
 [Article](https://www.oxfordbibliographies.com/display/document/obo-9780199772810/obo-9780199772810-0317.xml)
 
 Li, Y., Breithaupt, F., Siew, C. S. Q., Hills, T. T., Chen, Y., & Hertwig, R. (2024). The Struggle for Life among Words: How Cognitive Selection Shapes Language Evolution. *Proceedings of the National Academy of Sciences, 121*(1), e2220898120.     
