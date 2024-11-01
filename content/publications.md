@@ -5,6 +5,8 @@ title: Publications
 
 _Feel free to [email](/connect) me for copies of any of the articles below._    
 
+Undergraduate and graduate student collaborators are highlighted in **bold**.
+
 **Preprints**
 
 Klishin, A. A., Christianson, N. H., Siew, C. S. Q., & Bassett, D. S. (2022). Learning Dynamic Graphs, Too Slow. arXiv preprint arXiv:2207.02177.    
@@ -12,7 +14,13 @@ Klishin, A. A., Christianson, N. H., Siew, C. S. Q., & Bassett, D. S. (2022). Le
 
 **Peer-Reviewed Articles and Conference Proceedings**      
 
-Reilly J, Shain C, Borghesani V, Kuhnke P, Vigliocco G, Peelle JE, Mahon B, Buxbaum L, Majid A, Brysbaert M, Borghi A, De Deyne S, Dove G, Papeo L, Pexman P, Poeppel D, Lupyan G, Boggio P, Hickock G, Gwilliams L, Fernandino L, Mirman D, Chrysikou EG, Sandberg C, Crutch SJ, Pylkkänen L, Yee E, Jackson R, Rodd J, Bedny M, Connell L, Kiefer M, Kemmerer D, Zubicaray G, Jefferies E, Lynott D, Siew C, Desai R, Cantlon J, McRae K, Diaz M, Bolognesi M, Fedorenko E, Kiran S, Montefinesse M,, Binder JR, Yap M, Hartwigsen G, Bi Y, Hoffman, P, Garcea F, & Vinson D (2024, in press). What we mean when we say semantic: A multidisciplinary semantic glossary. *Psychonomic Bulletin and Review.*    
+**Chern, J.**, Castro, N., & Siew, C. S. Q. (2024). Evidence of community structure in phonological networks of multiple languages. *Canadian Journal of Experimental Psychology / Revue canadienne de psychologie expérimentale*. Advance online publication. https://doi.org/10.1037/cep0000357
+
+[Article](https://doi.org/10.1037/cep0000357) | [Preprint & OSF](https://osf.io/wh64p/)
+
+Reilly J, Shain C, Borghesani V, Kuhnke P, Vigliocco G, Peelle JE, Mahon B, Buxbaum L, Majid A, Brysbaert M, Borghi A, De Deyne S, Dove G, Papeo L, Pexman P, Poeppel D, Lupyan G, Boggio P, Hickock G, Gwilliams L, Fernandino L, Mirman D, Chrysikou EG, Sandberg C, Crutch SJ, Pylkkänen L, Yee E, Jackson R, Rodd J, Bedny M, Connell L, Kiefer M, Kemmerer D, Zubicaray G, Jefferies E, Lynott D, Siew C, Desai R, Cantlon J, McRae K, Diaz M, Bolognesi M, Fedorenko E, Kiran S, Montefinesse M,, Binder JR, Yap M, Hartwigsen G, Bi Y, Hoffman, P, Garcea F, & Vinson D (2024, in press). What we mean when we say semantic: A multidisciplinary semantic glossary. *Psychonomic Bulletin and Review.* Advance online publication. https://doi.org/10.3758/s13423-024-02556-7    
+
+[Open-Access Article](https://link.springer.com/article/10.3758/s13423-024-02556-7) 
 
 Siew, C. S. Q. (2024). A comparison of word humor ratings across speakers of North American, British, and Singapore English. *Memory & Cognition*. https://doi.org/10.3758/s13421-024-01587-8       
 [Article](https://link.springer.com/article/10.3758/s13421-024-01587-8) | [View-Only Access](https://rdcu.be/dKFnu) | [Preprint](https://osf.io/preprints/psyarxiv/sz8pa) | [OSF](https://osf.io/pg3fr/)
@@ -23,7 +31,8 @@ Siew, C. S. Q. (2024). Tracking Lexical Knowledge of Concepts Unique to Singapor
 Wong, J. J., & Siew, C. S. Q. (2024). Preliminary Data from the Small World of Singlish Words Project: Examining Responses to Common Singlish Words. *Journal of Open Psychology Data*. https://openpsychologydata.metajnl.com/articles/10.5334/jopd.108    
 [Open-Access Article](https://openpsychologydata.metajnl.com/articles/10.5334/jopd.108) | [OSF](https://osf.io/t2qxh/)    
 
-Castro, N., & Siew, C. S. Q. (2024). Preliminary evidence for two patterns of phonological similarity judgments of word-pairs by persons with Aphasia. *Aphasiology*, 1–21. https://doi.org/10.1080/02687038.2024.2323224     
+Castro, N., & Siew, C. S. Q. (2024). Preliminary evidence for two patterns of phonological similarity judgments of word-pairs by persons with Aphasia. *Aphasiology, 38*(11), 1745–1765. https://doi.org/10.1080/02687038.2024.2323224
+
 [Article](https://www.tandfonline.com/doi/full/10.1080/02687038.2024.2323224)
 
 Siew, C. S. Q. (2024). “Spoken Word Recognition.” In *Oxford Bibliographies in Linguistics*. Ed. Mark Aronoff. New York: Oxford University Press.    
@@ -53,7 +62,7 @@ Lee, N. H., Siew, C. S. Q., & Ng, N. H. N. (2022). The network nature of languag
 Li, Y., & Siew, C. S. Q. (2022). Diachronic semantic change in language influences, and is constrained by, how people use and learn language. *Memory and Cognition, 50*, 1284-1298.       
 [Open-Access Article](https://link.springer.com/article/10.3758/s13421-022-01331-0) | [Preprint & OSF](https://osf.io/gw8vj/)      
   
-Kumar, A. M., Goh, J. Y. Q., Tan, T. H. H., & Siew, C. S. Q. (2022). Gender Stereotypes in Hollywood Movies and Their Evolution Over Time: Insights from Network Analysis. *Big Data and Cognitive Computing, 6*(2), 50. DOI: 10.3390/bdcc6020050     
+**Kumar, A. M., Goh, J. Y. Q., Tan, T. H. H.**, & Siew, C. S. Q. (2022). Gender Stereotypes in Hollywood Movies and Their Evolution Over Time: Insights from Network Analysis. *Big Data and Cognitive Computing, 6*(2), 50. DOI: 10.3390/bdcc6020050     
 [Open-Access Article](https://www.mdpi.com/2504-2289/6/2/50) | [Github](https://github.com/arjunkmrm/film-networks)     
 
 Siew, C. S. Q., Engelthaler, T., & Hills, T. T. (2022). Nymph Piss and Gravy Orgies: Local and Global Contrast Effects in Relational Humor. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 48*(7), 1047-1063. DOI: 10.1037/xlm0001120      

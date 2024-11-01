@@ -13,6 +13,8 @@ title: Teaching
 
 **PL4246 Networks in Psychology**   
 
+* [Introduction to Network Analysis in `igraph`](https://csqsiew.github.io/)
+
 #### Other
 
 * Slides and Workbook for "An Introduction to Network Analysis for Psycholinguists": A [Virtual Psycholinguistics Forum](https://cuhklpl.github.io/forum.html) Tutorial (https://vpf-netsci.netlify.app/) 

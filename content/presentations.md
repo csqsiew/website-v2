@@ -5,9 +5,29 @@ title: Conferences & Presentations
 
 *I upload all posters and talk slides [here](https://osf.io/d56mf/) - if something is missing feel free to [email](mailto:cynthia@nus.edu.sg) me.*
 
+Undergraduate and graduate student collaborators are highlighted in **bold**.
+
+**Forthcoming**
+
+**Mae, A.**, & Siew, C. S. Q. (2024, December). Spoken Word Recognition of Malay-Derived Singlish Concepts Among Indonesians Living in Singapore. Poster to be presented at the Architectures and Mechanisms for Language Processing Asia (AMLaP Asia). Singapore.
+
+Wong, J. J., & Siew, C. S. Q. (2024, December). A Network Approach to Examine Gender Differences in Word Associations for Singapore English Words. Poster to be presented at the Architectures and Mechanisms for Language Processing Asia (AMLaP Asia). Singapore.
+
+**Jiang, Z.**, & Siew, C. S. Q. (2024, December). Word or Character? Investigating Minimal Unit in Chinese Distributional Semantics. Talk to be presented at the Architectures and Mechanisms for Language Processing Asia (AMLaP Asia). Singapore.
+
+**Jiang, Z.**, & Siew, C. S. Q. (2024, November). Quantifying Colloquial Language: Word Frequency and Contextual Diversity in Singapore English. Talk to be presented at the 54th Annual Meeting of the Society for Computation in Psychology, New York, USA.
+
+Siew, C. S. Q. (2024, November). Chinese Character Network Structure Affects Processing of Single Chinese Characters. Poster to be presented at the 65th Annual Meeting of the Psychonomic Society, New York, USA.  
+
+Siew, C. S. Q., & Wong, J. J. (2024, November). Citizen Science in A Small World of Singlish Words. Lightning talk to be presented at the Singapore Open Research Conference 2024, Singapore.
+
+Siew, C. S. Q. (2024, November). Updates from the Small World of Singlish Words Project. Talk to be presented at the NUS Psychology Brown Bag Series, Singapore. 
+
+* [Slides](https://osf.io/46fgw)
+
 **2024**
 
-Siew, C. S. Q. (2024, September). The Mental Lexicon As A Complex Network. [Invited talk](https://ccs24.cssociety.org/keynotes-invited/#invited-speakers) to be presented at the Conference for Complex Systems 2024, Exeter, UK. 
+Siew, C. S. Q. (2024, September). The Mental Lexicon As A Complex Network. [Invited talk](https://ccs24.cssociety.org/keynotes-invited/#invited-speakers) presented at the Conference for Complex Systems 2024, Exeter, UK. 
 
 * [Slides](https://osf.io/fyuw2)
 
@@ -47,7 +67,7 @@ Siew, C. S. Q., (2023, October). Leveraging on Network Analysis to Uncover Menta
 
 * [Slides](https://bit.ly/siew-ips-talk)
 
-Chern, J., Castro, N., & Siew, C. S. Q. (2023, July). Evidence of community structure in phonological networks of various languages. Poster presented at CogSci 2023, Sydney, Australia.    
+**Chern, J.**, Castro, N., & Siew, C. S. Q. (2023, July). Evidence of community structure in phonological networks of various languages. Poster presented at CogSci 2023, Sydney, Australia.    
 
 * [Poster](https://bit.ly/siew-cogsci-23)
 
@@ -69,7 +89,7 @@ Siew, C. S. Q., Castro, N., & Chern, J. (2022, November). Higher L2 Proficiency 
 
 * [Slides](https://osf.io/kps8t)    
 
-Siew, C. S. Q., & Tan, J. F. (2022, September). Production and perception errors from a speech error corpus reflect the macro- and meso-level structure of the phonological language network. Poster presented at Architectures and Mechanisms for Language Processing (AMLaP) 28. York, United Kingdom. *Online*.     
+Siew, C. S. Q., & **Tan, J. F.** (2022, September). Production and perception errors from a speech error corpus reflect the macro- and meso-level structure of the phonological language network. Poster presented at Architectures and Mechanisms for Language Processing (AMLaP) 28. York, United Kingdom. *Online*.     
 
 * [Poster](https://osf.io/8gb7j)
 
