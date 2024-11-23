@@ -15,15 +15,23 @@ Wong, J. J., & Siew, C. S. Q. (2024, December). A Network Approach to Examine Ge
 
 **Jiang, Z.**, & Siew, C. S. Q. (2024, December). Word or Character? Investigating Minimal Unit in Chinese Distributional Semantics. Talk to be presented at the Architectures and Mechanisms for Language Processing Asia (AMLaP Asia). Singapore.
 
-**Jiang, Z.**, & Siew, C. S. Q. (2024, November). Quantifying Colloquial Language: Word Frequency and Contextual Diversity in Singapore English. Talk to be presented at the 54th Annual Meeting of the Society for Computation in Psychology, New York, USA.
+**Jiang, Z.**, & Siew, C. S. Q. (2024, November). Quantifying Colloquial Language: Word Frequency and Contextual Diversity in Singapore English. Talk presented at the 54th Annual Meeting of the Society for Computation in Psychology, New York, USA.
 
-Siew, C. S. Q. (2024, November). Chinese Character Network Structure Affects Processing of Single Chinese Characters. Poster to be presented at the 65th Annual Meeting of the Psychonomic Society, New York, USA.  
+* [Slides](https://osf.io/8rbc4)
 
-Siew, C. S. Q., & Wong, J. J. (2024, November). Citizen Science in A Small World of Singlish Words. Lightning talk to be presented at the Singapore Open Research Conference 2024, Singapore.
+Siew, C. S. Q. (2024, November). Chinese Character Network Structure Affects Processing of Single Chinese Characters. Poster presented at the 65th Annual Meeting of the Psychonomic Society, New York, USA.  
 
-Siew, C. S. Q. (2024, November). Updates from the Small World of Singlish Words Project. Talk to be presented at the NUS Psychology Brown Bag Series, Singapore. 
+* [Poster](https://osf.io/mbefs)
 
-* [Slides](https://osf.io/46fgw)
+Siew, C. S. Q., & Wong, J. J. (2024, November). Citizen Science in A Small World of Singlish Words. Lightning talk and poster presented at the Singapore Open Research Conference 2024, Singapore.
+
+* [Slides](https://osf.io/gk3pm)
+* [Poster](https://osf.io/d45fh)
+* Winner of the [Singapore Open Research Award](https://libguides.ntu.edu.sg/SGopenresearchawards/awardresults)
+
+Siew, C. S. Q. (2024, November). Updates from the Small World of Singlish Words Project. Talk presented at the NUS Psychology Brown Bag Series, Singapore. 
+
+* [Slides](https://osf.io/n86kg)
 
 **2024**
 
