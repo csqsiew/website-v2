@@ -11,6 +11,8 @@ Undergraduate and graduate student collaborators are highlighted in **bold**.
 
 **Mae, A.**, & Siew, C. S. Q. (2024, December). Spoken Word Recognition of Malay-Derived Singlish Concepts Among Indonesians Living in Singapore. Poster to be presented at the Architectures and Mechanisms for Language Processing Asia (AMLaP Asia). Singapore.
 
+* [Poster](https://osf.io/xdfp4)
+
 Wong, J. J., & Siew, C. S. Q. (2024, December). A Network Approach to Examine Gender Differences in Word Associations for Singapore English Words. Poster to be presented at the Architectures and Mechanisms for Language Processing Asia (AMLaP Asia). Singapore.
 
 **Jiang, Z.**, & Siew, C. S. Q. (2024, December). Word or Character? Investigating Minimal Unit in Chinese Distributional Semantics. Talk to be presented at the Architectures and Mechanisms for Language Processing Asia (AMLaP Asia). Singapore.
