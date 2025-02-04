@@ -7,15 +7,15 @@ title: Conferences & Presentations
 
 Undergraduate and graduate student collaborators are highlighted in **bold**.
 
-**Forthcoming**
+**2024**
 
-**Mae, A.**, & Siew, C. S. Q. (2024, December). Spoken Word Recognition of Malay-Derived Singlish Concepts Among Indonesians Living in Singapore. Poster to be presented at the Architectures and Mechanisms for Language Processing Asia (AMLaP Asia). Singapore.
+**Mae, A.**, & Siew, C. S. Q. (2024, December). Spoken Word Recognition of Malay-Derived Singlish Concepts Among Indonesians Living in Singapore. Poster presented at the Architectures and Mechanisms for Language Processing Asia (AMLaP Asia). Singapore.
 
 * [Poster](https://osf.io/xdfp4)
 
-Wong, J. J., & Siew, C. S. Q. (2024, December). A Network Approach to Examine Gender Differences in Word Associations for Singapore English Words. Poster to be presented at the Architectures and Mechanisms for Language Processing Asia (AMLaP Asia). Singapore.
+Wong, J. J., & Siew, C. S. Q. (2024, December). A Network Approach to Examine Gender Differences in Word Associations for Singapore English Words. Poster presented at the Architectures and Mechanisms for Language Processing Asia (AMLaP Asia). Singapore.
 
-**Jiang, Z.**, & Siew, C. S. Q. (2024, December). Word or Character? Investigating Minimal Unit in Chinese Distributional Semantics. Talk to be presented at the Architectures and Mechanisms for Language Processing Asia (AMLaP Asia). Singapore.
+**Jiang, Z.**, & Siew, C. S. Q. (2024, December). Word or Character? Investigating Minimal Unit in Chinese Distributional Semantics. Talk presented at the Architectures and Mechanisms for Language Processing Asia (AMLaP Asia). Singapore.
 
 **Jiang, Z.**, & Siew, C. S. Q. (2024, November). Quantifying Colloquial Language: Word Frequency and Contextual Diversity in Singapore English. Talk presented at the 54th Annual Meeting of the Society for Computation in Psychology, New York, USA.
 
@@ -34,8 +34,6 @@ Siew, C. S. Q., & Wong, J. J. (2024, November). Citizen Science in A Small World
 Siew, C. S. Q. (2024, November). Updates from the Small World of Singlish Words Project. Talk presented at the NUS Psychology Brown Bag Series, Singapore. 
 
 * [Slides](https://osf.io/n86kg)
-
-**2024**
 
 Siew, C. S. Q. (2024, September). The Mental Lexicon As A Complex Network. [Invited talk](https://ccs24.cssociety.org/keynotes-invited/#invited-speakers) presented at the Conference for Complex Systems 2024, Exeter, UK. 
 
