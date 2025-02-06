@@ -14,8 +14,8 @@ Klishin, A. A., Christianson, N. H., Siew, C. S. Q., & Bassett, D. S. (2022). Le
 
 **Peer-Reviewed Articles and Conference Proceedings**      
 
-Siew, C. S. Q., & Castro, N. (in press). Larger lexicons enable representation of fine-grained phonological similarity structure: Evidence from English L2 speakers’ sound similarity judgments of word pairs. *Journal of Memory and Language*.    
-[Preprint & OSF](https://osf.io/hw2sy/) 
+Siew, C. S. Q., & Castro, N. (2025). Larger lexicons enable representation of fine-grained phonological similarity structure: Evidence from English L2 speakers’ sound similarity judgments of word pairs. *Journal of Memory and Language*, 142, 104619. https://doi.org/10.1016/j.jml.2025.104619     
+[Open-Access Article](https://www.sciencedirect.com/science/article/pii/S0749596X25000129) | [Preprint & OSF](https://osf.io/hw2sy/) 
 
 **Chern, J.**, Castro, N., & Siew, C. S. Q. (2024). Evidence of community structure in phonological networks of multiple languages. *Canadian Journal of Experimental Psychology / Revue canadienne de psychologie expérimentale*. Advance online publication. https://doi.org/10.1037/cep0000357     
 [Article](https://doi.org/10.1037/cep0000357) | [Preprint & OSF](https://osf.io/wh64p/)
