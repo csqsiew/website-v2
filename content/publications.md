@@ -9,10 +9,16 @@ Undergraduate and graduate student collaborators are highlighted in **bold**.
 
 **Preprints**
 
+Haim, E., Bergh, L. V. D., Siew, C. S. Q., Kenett, Y. N., Marinazzo, D., & Stella, M. (2025). Cognitive networks highlight differences and similarities in the STEM mindsets of human and LLM-simulated trainees, experts and academics. arXiv preprint arXiv:2502.19529.    
+[Preprint](https://arxiv.org/abs/2502.19529)     
+
 Klishin, A. A., Christianson, N. H., Siew, C. S. Q., & Bassett, D. S. (2022). Learning Dynamic Graphs, Too Slow. arXiv preprint arXiv:2207.02177.    
 [Preprint](https://arxiv.org/abs/2207.02177)    
 
 **Peer-Reviewed Articles and Conference Proceedings**      
+
+Siew, C. S. Q., & **Tan, J.** (in press). Production and perception errors from speech error corpora reflect macro- and meso-level structure of the phonological language network. *Language & Speech*.    
+[Preprint](https://osf.io/preprints/osf/2th7s) | [OSF](https://osf.io/crgw7/)     
 
 Siew, C. S. Q., & Castro, N. (2025). Larger lexicons enable representation of fine-grained phonological similarity structure: Evidence from English L2 speakers’ sound similarity judgments of word pairs. *Journal of Memory and Language*, 142, 104619. https://doi.org/10.1016/j.jml.2025.104619     
 [Open-Access Article](https://www.sciencedirect.com/science/article/pii/S0749596X25000129) | [Preprint & OSF](https://osf.io/hw2sy/) 

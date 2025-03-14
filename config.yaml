@@ -34,7 +34,7 @@ menu:
 
 params:
   description: "A website built with Hugo, blogdown, and the XMin theme."
-  footer: "A website built with [Hugo](https://gohugo.io/), [blogdown](https://bookdown.org/yihui/blogdown/), and the [XMin](https://github.com/yihui/hugo-xmin) theme. Last updated: 4th Feb 2025."
+  footer: "A website built with [Hugo](https://gohugo.io/), [blogdown](https://bookdown.org/yihui/blogdown/), and the [XMin](https://github.com/yihui/hugo-xmin) theme. Last updated: 14th Mar 2025."
 
 markup:
   goldmark:

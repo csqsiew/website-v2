@@ -9,7 +9,7 @@ _hello at cloud dot csqsiew dot xyz_
 
 _cynthia at nus dot edu dot sg_
 
-View my CV [here.](https://osf.io/e6mh3) (last updated Feb 2025)    
+View my CV [here.](https://osf.io/tm8xn) (last updated March 2025)    
 
 ### About me
 

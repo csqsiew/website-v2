@@ -7,6 +7,10 @@ title: Conferences & Presentations
 
 Undergraduate and graduate student collaborators are highlighted in **bold**.
 
+**2025**
+
+Siew, C. S. Q. (2025, May). Insights from developing psycholinguistic norms for the Singaporean Mental Lexicon. Invited talk to be presented at International Workshop on Cross-linguistic Databases and Norms. Shanghai, China.     
+
 **2024**
 
 **Mae, A.**, & Siew, C. S. Q. (2024, December). Spoken Word Recognition of Malay-Derived Singlish Concepts Among Indonesians Living in Singapore. Poster presented at the Architectures and Mechanisms for Language Processing Asia (AMLaP Asia). Singapore.
